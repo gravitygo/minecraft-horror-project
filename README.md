@@ -4,7 +4,7 @@
 2. At the bottom right open TLMods
 3. At the Top Press Create
 4.  Name it whatever you want but make sure you have these configurations
-> Release Type: __Forge__
+> Release Type: __Forge__, 
 > Game Version: __1.20.1__
 5. Press Create
 6. On the left side of the Create button, there's a drop down. Find the created ModPack and click on the options(right of the row)

@@ -1,4 +1,4 @@
-#How to Install in TLauncher
+# How to Install in TLauncher
 ---
 1. Open TLauncher
 2. At the bottom right open TLMods
